@@ -28,3 +28,4 @@
 ..\Output\main.o: ..\FWlib\inc\stm32f10x_usart.h
 ..\Output\main.o: ..\FWlib\inc\stm32f10x_wwdg.h
 ..\Output\main.o: ..\FWlib\inc\misc.h
+..\Output\main.o: ..\Zlib\inc\z_delay.h
